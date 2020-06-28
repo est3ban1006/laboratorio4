@@ -8,6 +8,7 @@ package Logica;
 /**
  *
  * @author Personal
+ * ///***
  */
 public class Nodo {
 
